@@ -72,7 +72,7 @@
 - **[Glassnode](https://glassnode.com/)** - Provides on-chain data and metrics for various cryptocurrencies.
 - **[IntoTheBlock](https://app.intotheblock.com/)** - An analytics platform offering insights into crypto markets and trends.
 - **[Messari Crypto Screener](https://messari.io/screener)** - A tool for filtering and analyzing crypto assets.
-- **[Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
+- [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
 
 
 ## Crypto Development
@@ -97,7 +97,7 @@
 - **[CoinDesk Learn](https://www.coindesk.com/learn/)** - Offers articles and tutorials on various aspects of cryptocurrency.
 - **[Binance Academy](https://academy.binance.com/)** - Educational content on blockchain, cryptocurrencies, and trading.
 - **[CryptoZombies](https://cryptozombies.io/)** - A gamified platform for learning smart contract development.
-- **[Chartscout](https://chartscout.io/trading-education) - Learn crypto chart patterns through real-time examples and pattern recognition
+- [Chartscout](https://chartscout.io/trading-education) - Learn crypto chart patterns through real-time examples and pattern recognition
 
 
 ## Books
